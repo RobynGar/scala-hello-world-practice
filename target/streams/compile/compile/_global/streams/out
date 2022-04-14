@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/robyn.garlington/Downloads/play-samples-play-scala-hello-world-tutorial/app/controllers/HomeController.scala:33:24: not enough arguments for method apply: (name: String): play.twirl.api.HtmlFormat.Appendable in object hello.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter name.[0m
+[0m[[0m[31merror[0m] [0m[0m    Ok(views.html.hello())[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
